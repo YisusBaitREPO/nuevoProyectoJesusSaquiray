@@ -6,7 +6,6 @@ import Saludo from './assets/components/Saludo.jsx'
 
 createRoot(document.getElementById('root')).render(
   <>
-  <App />
   <Saludo/>
   </>
 )
