@@ -70,10 +70,12 @@
   }
 }
 
+
+
 #next-steps {
   display: flex;
   border-top: 1px solid var(--border);
-  text-align: left;
+  text-align: center;
 
   & > div {
     flex: 1 1 0;
@@ -162,6 +164,7 @@
 }
 
 .ticks {
+  justify-content: center;
   position: relative;
   width: 100%;
 
